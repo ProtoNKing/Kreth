@@ -1,0 +1,11 @@
+name: "Kreth"
+displayName: "Kreth Applications"
+description: 
+''' 
+Just some shenanigans
+'''
+author: "ProtoN"
+minGameVersion: 159
+version: "0.1"
+subtitle: "Blep"
+dependencies: []
