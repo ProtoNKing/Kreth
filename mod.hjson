@@ -1,5 +1,5 @@
-name: "project-rayfield"
-displayName: "Project Rayfield"
+name: "project-rayfeild"
+displayName: "Project Rayfeild"
 description: 
 ''' 
 Just some shenanigans
@@ -9,5 +9,4 @@ author: "ProtoN"
 minGameVersion: 159
 version: "0.2"
 subtitle: "Blep"
-repo: "ProtoNKing/rayfield"
 dependencies: []
